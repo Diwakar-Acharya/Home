@@ -1,5 +1,5 @@
 <h1 align="center">Hey!!! I'm Diwakar Acharya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A developer from India</h2>
 
 - 🔭 currently working on **ecommerce platform**
 
